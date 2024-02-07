@@ -10947,7 +10947,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/cover.webp");
+  background-image: url("../assets/img/cover.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11068,6 +11068,12 @@ header.masthead .masthead-heading {
 }
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
+}
+
+
+.divimg img{
+  height: 400px;
+  width: 800px;
 }
 
 .timeline {
